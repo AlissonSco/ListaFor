@@ -1,3 +1,3 @@
-for loop in range(21):
-    print(loop)
-    loop += 1
+for a in range(0,21):
+    if a%2==0:
+        print(a)
