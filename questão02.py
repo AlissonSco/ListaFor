@@ -3,5 +3,4 @@ for a in range(16):
         a += 1
     else:
         print(a)
-        a += 1
-        
+        a += 1     
